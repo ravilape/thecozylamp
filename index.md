@@ -1,29 +1,51 @@
-## Welcome to GitHub Pages
+## The CozyLamp project
 
-You can use the [editor on GitHub](https://github.com/ravilape/thecozylamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For the story of this project check [CREATE site](https://create.pe/), subscribe, like and share!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now in Spanish:
 
-### Markdown
+### Componentes del proyecto:
+- Hardware
+- App en Android
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### El hardware
+##### Diagrama de bloques
+- Aquí voy a poner el diagrama de bloques
 
-```markdown
-Syntax highlighted code block
+Aquí voy a explicar de qué va el diagrama de bloques
 
-# Header 1
-## Header 2
-### Header 3
+##### Circuito esquemático
+- Aquí voy a poner el esquemático
 
-- Bulleted
-- List
+##### BOM
+- Aquí voy a poner el BOM
 
-1. Numbered
-2. List
+##### PCB y PCBA
+- Aquí voy a poner el PCB y las fotos de cómo queda todo soldado
 
-**Bold** and _Italic_ and `Code` text
+##### El firmware
+- Aquí voy a explicar un poco de la lógica detrás del diseño
+- Link a mi explicación de cómo hacer upload del firmware
 
-[Link](url) and ![Image](src)
+##### El case y ensamblaje
+- Unas imágenes del ID
+
+
+
+### La app en Android
+
+#### Los Wireframes
+Aquí voy a poner los wireframes importantes (diseños de Karla)
+
+#### El diseño
+Aquí pongo los diseños en base al wireframe
+
+#### El código
+Explico un poco de lo que uso para codear
+
+### Las pruebas finales
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
